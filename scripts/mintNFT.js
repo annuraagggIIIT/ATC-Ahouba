@@ -3,7 +3,7 @@ async function main() {
   
     console.log("Minting NFT with the account:", deployer.address);
   
-    const contractAddress = "0x73BCba2dfFf12928C6dd06BdcBcD851da47742a9"; // Contract's address
+    const contractAddress = "0xA9074a73E02DCac884f5806bD2727429b8809A66"; // Contract's address
     const contractABI = [
         {
           "inputs": [],
