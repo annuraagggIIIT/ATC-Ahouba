@@ -1,0 +1,15 @@
+{
+    "name": "AirspaceNFT",
+    "description": "An NFT representing airspace above a property.",
+    "attributes": [
+      {
+        "trait_type": "Longitude",
+        "value": "[1, 2, 3]"
+      },
+      {
+        "trait_type": "Latitude",
+        "value": "[4, 5, 6]"
+      }
+    ]
+  }
+  
